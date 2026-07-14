@@ -42,3 +42,9 @@ pip install beautifulsoup4
 
 pip install nltk
 
+\## Installation from GitHub
+
+
+
+pip install git+https://github.com/Mehruma0821/preprocess\_cptalk.git
+
